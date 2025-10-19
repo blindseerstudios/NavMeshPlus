@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using NavMeshComponents.Scripts;
+using UnityEngine;
 using UnityEditor;
 
 namespace NavMeshPlus.Extensions.Editors
